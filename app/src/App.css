@@ -1,0 +1,29 @@
+
+header {
+    height: 55px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header div {
+    font-size: 28px;
+}
+ header ul {
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-size: 15px;
+
+}
+ header ul li {
+    list-style-type: none;
+}
+.NavTab {
+    height: 55px;
+    width: 100%;
+}
